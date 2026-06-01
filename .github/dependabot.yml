@@ -6,7 +6,7 @@
 version: 2
 updates:
   - package-ecosystem: "maven"
-    directory: "/cucumber-java-selenium/pom.xml"
+    directory: "/cucumber-java-selenium/"
     schedule:
       interval: "weekly"
       day: "monday"
