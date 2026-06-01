@@ -20,7 +20,7 @@ Please push your work to your own github repo and share the link to the project 
 - IDE - IntelliJ IDEA
 - Defaults to run using Google Chrome, please ensure this is installed
 - Maven
-- Java 21
+- Java 25
 
 ## Maven
 
