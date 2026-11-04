@@ -1,9 +1,9 @@
 package io.cucumber.pages;
 
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
+import io.appium.java_client.support.PageFactory;
 import java.time.Duration;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.support.PageFactory;
 
 public class Page {
 
